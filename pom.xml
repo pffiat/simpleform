@@ -13,8 +13,8 @@
         <build.javac.target>1.7</build.javac.target>
         
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <liferay.version>6.2.10.9</liferay.version>
-        <liferay.maven.plugin.version>6.2.10.9</liferay.maven.plugin.version>
+        <liferay.version>6.2.0-ga1</liferay.version>
+        <liferay.maven.plugin.version>6.2.0-ga1</liferay.maven.plugin.version>
         <liferay.auto.deploy.dir>${liferay.home}/deploy</liferay.auto.deploy.dir>
         <liferay.jboss-eap-6.dir>${liferay.home}/jboss-eap-6.2</liferay.jboss-eap-6.dir>
         <liferay.app.server.portal.dir>${liferay.jboss-eap-6.dir}/standalone/deployments/ROOT.war</liferay.app.server.portal.dir>
